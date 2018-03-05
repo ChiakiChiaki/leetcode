@@ -5,6 +5,12 @@ Determine whether an integer is a palindrome. Do this without extra space.
 
 '''
 
+'''
+
+题目要求：回文数字
+要点：负数、整除10的非零数不符合，其余数对十进制各位反取重新组数字 
+
+'''
 
 class Solution:
     def isPalindrome(self, x):
