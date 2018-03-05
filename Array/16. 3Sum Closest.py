@@ -11,7 +11,7 @@ Given an array S of n integers, find three integers in S such that the sum is cl
 '''
 '''
 3Sum Closest 题目要求：数字列表取3个数 相加之和距离目标数最接近(假设就一个结果) 返回3个数的和
-要点：  取前三个数的和作为初始数   类似3Sum 遍历求和与初始数比较 更
+要点：  取前三个数的和作为初始数   类似3Sum 遍历求和与初始数比较 取更接近初始数的三个数的和
 
 '''
 
