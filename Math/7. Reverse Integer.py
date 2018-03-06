@@ -24,7 +24,7 @@ For the purpose of this problem, assume that your function returns 0 when the re
 
 '''
 题目要求：反转数字 过大返回0 
-要点：字符串可以直接[::-1]反转 直接取绝对值反转 ；负号交给cmp处理，cmp()在3.X版本被取代，cmp(x,y) :(x>y)-(x<y)
+要点：字符串可以直接[::-1]反转 取绝对值转成字符串反转 ；负号交给cmp处理，cmp()在3.X版本被取代，cmp(x,y) :(x>y)-(x<y)
 
 '''
 
